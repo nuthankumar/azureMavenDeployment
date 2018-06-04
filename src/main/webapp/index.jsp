@@ -9,7 +9,7 @@
   <title>Azure Samples Hello World</title>
 </head>
 <body>
-  <H1>Hello Nuthan!</H1>
+  <H1>Hello Nuthan, Welcome to your first trail of azure deployment using jenkins!</H1>
    Current time is: <%= new Date() %>
 </body>
 </html>
